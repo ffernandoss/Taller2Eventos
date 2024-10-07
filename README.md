@@ -1,6 +1,6 @@
 # Taller 2 Eventos
 
-https://github.com/ffernandoss/Taller1EventosFInal.git
+[https://github.com/ffernandoss/Taller1EventosFInal.git](https://github.com/ffernandoss/Taller2Eventos.git)
 
 Este ejercicio está compuesto por las clases `ActividadPrincipal`, `PantallaConfiguracion` y `PantallaInicio`.
 
